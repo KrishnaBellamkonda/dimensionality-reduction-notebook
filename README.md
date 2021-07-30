@@ -1,5 +1,5 @@
 # dimensionality-reduction-notebook
-*This project contains a notebook with many dimensionality reduction algorithms. This notebook is heavily inspired by *
+*This project contains a notebook with many dimensionality reduction algorithms. This notebook is heavily inspired by 'Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow' authored by GeÌron, Aureìlien.*
 
 ### Algorithms
 * Multidimensional Scaling (MDS)
