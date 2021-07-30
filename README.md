@@ -49,5 +49,15 @@
     <img src="./images/OriginalNumber.png"><img/>
     <img src="./images/Reconstructed Number/png"><img/>
   <article/> 
+  <article>
+    <h4>Swiss Roll Two Dimensions<h4/>
+    <img src="./images/TSNEReductionOnMNIST.png"><img/>
+  <article/> 
+  <article>
+    <h4>Swiss Roll Two Dimensions<h4/>
+    <img src="./images/NumberClusters.png"><img/>
+  <article/> 
+      
+  
   
 <section/>
