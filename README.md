@@ -56,7 +56,13 @@
   <article>
     <h4>Swiss Roll Two Dimensions<h4/>
     <img src="./images/NumberClusters.png"><img/>
-  <article/> 
+  <article/>
+  <article>
+    <h4>Swiss Roll Two Dimensions<h4/>
+    <img src="./images/LDADigits.png"><img/>
+  <article/>
+      
+
       
   
   
